@@ -1,0 +1,12 @@
+GhostTweak release logs
+- Setup async engine for swift tasks generation
+- Added title to editor menus for reminder
+- Safe-clone edit algorithm for concurrency
+- Added debug option for developers
+
+GhostTweak v1.1-b17 changelogs
+- Added TabComplete for main command
+- Added support for 1.17.1
+- Added support for 1.18.2
+- Added support for 1.20.1
+- Added support for 1.20.4

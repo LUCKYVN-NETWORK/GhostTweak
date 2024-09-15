@@ -1,0 +1,12 @@
+name: GhostTweak
+version: 1.1-b17
+main: me.stella.GhostTweak
+authors:
+  - StellarSeal_
+api-version: '1.13'
+load: POSTWORLD
+description: Tweak the data of offline players with ease.
+commands:
+  ghosttweak:
+    usage: /<command>
+    description: Main command to tweak user's inventory
